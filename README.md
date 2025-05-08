@@ -1,11 +1,14 @@
 # DevGilvandro
 ### Olá, eu sou o Gilvandro!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gilvandro-alves-martins-591284287)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvandro.0?igsh=YmcxdjkxMWxmcDlz&utm_source=qr)
+<div align="center">
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gilvandro-alves-martins-591284287)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvandro.0?igsh=YmcxdjkxMWxmcDlz&utm_source=qr)
+</div>
 
-![Gilvandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvandro09am&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  ![Gilvandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvandro09am&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilvandro09am&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Tecnologias usadas no meu dia
 
